@@ -37,14 +37,14 @@
   <p align="center">
     MedNuvem - Gestão Cloud de documentos médicos
     <br />
-    <a href="https://github.com/mednuvem/plataforma"><strong>Explore a documentação »</strong></a>
+    <a href="https://github.com/brunoribeiro-lab/mednuvem"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://nuvemmed.shop/">Demostração Online</a>
     ·
-    <a href="https://github.com/mednuvem/plataforma/issues">Reportar Bug</a>
+    <a href="https://github.com/brunoribeiro-lab/mednuvem/issues">Reportar Bug</a>
     ·
-    <a href="https://github.com/mednuvem/plataforma/issues">Solicitar  Feature</a>
+    <a href="https://github.com/brunoribeiro-lab/mednuvem/issues">Solicitar  Feature</a>
   </p>
 </div>
 
@@ -124,7 +124,7 @@ com o docker instalado siga os próximos passos abaixo.
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/mednuvem/plataforma.git
+   git clone https://github.com/brunoribeiro-lab/mednuvem.git
    ```
 2. Abra o arquivo `.env` e substitua pelas informações corretas:
    ```js
@@ -160,7 +160,7 @@ Para fazer a instalação da aplicação siga todos os passos abaixos.
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/mednuvem/plataforma.git
+   git clone https://github.com/brunoribeiro-lab/mednuvem.git
    ```
 2. Baixe o [`composer.phar`](https://getcomposer.org/composer.phar) executável ou use o instalador.
     ``` sh
@@ -197,7 +197,7 @@ Para fazer a instalação da aplicação siga todos os passos abaixos.
 - [X] Pente Fino no site
 - [ ] Fixar bug logar 2x com mesmo usuário
 
-Veja as [issues abertas](https://github.com/mednuvem/plataforma/issues) para uma lista completa de funcionalidades propostas (e problemas conhecidos).
+Veja as [issues abertas](https://github.com/brunoribeiro-lab/mednuvem/issues) para uma lista completa de funcionalidades propostas (e problemas conhecidos).
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 
@@ -235,7 +235,7 @@ Distribuído sob a Licença MIT. Veja `LICENSE.md` para mais informações.
 * **Bruno Ribeiro  - [Linkedin](https://www.linkedin.com/in/bruno-ribeiro-46675922a/) - bruno.ribeiro.lab@gmail.com**
 * **Paulo Henrique - [Linkedin](https://www.linkedin.com/in/paulo-h-nascimento-0250a721a/) - pauli1_mcz@hotmail.com**
 
-Link do Projeto: [https://github.com/mednuvem/plataforma](https://github.com/mednuvem/plataforma)
+Link do Projeto: [https://github.com/brunoribeiro-lab/mednuvem](https://github.com/brunoribeiro-lab/mednuvem)
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
